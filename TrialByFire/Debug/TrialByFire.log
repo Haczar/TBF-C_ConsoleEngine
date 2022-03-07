@@ -1,0 +1,231 @@
+﻿Environment at start of build:
+ADSK_CLM_WPAD_PROXY_CHECK = FALSE
+ALLUSERSPROFILE = C:\ProgramData
+AMDRMPATH = C:\Program Files\AMD\RyzenMaster\
+APPDATA = C:\Users\Edward\AppData\Roaming
+CommonProgramFiles = C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = WHITECUBE
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+ForceIdentityAuthenticationType = Embedded
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+FSHARPINSTALLDIR = C:\Program Files (x86)\Microsoft SDKs\F#\10.1\Framework\v4.0\
+GIT_LFS_PATH = C:\Program Files\Git LFS
+GTK_BASEPATH = C:\Program Files (x86)\GtkSharp\2.12\
+HOMEDRIVE = C:
+HOMEPATH = \Users\Edward
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+LOCALAPPDATA = C:\Users\Edward\AppData\Local
+LOGONSERVER = \\WHITECUBE
+MSBuildLoadMicrosoftTargetsReadOnly = true
+MSMPI_BENCHMARKS = C:\Program Files\Microsoft MPI\Benchmarks\
+MSMPI_BIN = C:\Program Files\Microsoft MPI\Bin\
+MSMPI_INC = C:\Program Files (x86)\Microsoft SDKs\MPI\Include\
+MSMPI_LIB32 = C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\
+MSMPI_LIB64 = C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\
+NUMBER_OF_PROCESSORS = 12
+NVM_HOME = C:\Users\Edward\scoop\apps\nvm\current
+NVM_SYMLINK = C:\Users\Edward\scoop\persist\nvm\nodejs\nodejs
+OculusBase = C:\Program Files\Oculus\
+OneDrive = C:\Users\Edward\OneDrive
+OS = Windows_NT
+Path = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;F:\Development\vulkan\1.2.141.2\Bin;C:\Program Files\Oculus\Support\oculus-runtime;F:\Development\vulkan\1.2.135.0\Bin;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Zero Install;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Git\cmd;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;F:\Development\platform-tools;F:\Development\LLVM\bin;F:\Development\Vagrant\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\LLVM\SourceBuilt\bin;C:\Program Files\Git LFS;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile64\;C:\Program Files (x86)\Common Files\Acronis\FileProtector\;C:\Program Files (x86)\Common Files\Acronis\FileProtector64\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;F:\Development\CMake\bin;F:\Development\Brackets\command;F:\Development\SVN\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Process Lasso;C:\Program Files (x86)\Visual Leak Detector\bin\Win64;C:\Program Files\CMake\bin;C:\Users\Edward\AppData\Local\Programs\Python\Python38;C:\Users\Edward\AppData\Local\Programs\Python\Python38\Scripts;F:\Development\doxygen\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\Development\Gource\cmd;C:\Program Files\PowerShell\7\;C:\Program Files\Perforce\;C:\Users\Edward\scoop\apps\vulkan\current\Tools;C:\Users\Edward\scoop\apps\vulkan\current\Bin;C:\Users\Edward\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\Edward\AppData\Local\Programs\Python\Python38\;C:\Users\Edward\scoop\apps\nvm\current\nodejs\nodejs;C:\Users\Edward\scoop\shims;C:\Users\Edward\.cargo\bin;E:\Development\Anaconda;E:\Development\Anaconda\Library\mingw-w64\bin;E:\Development\Anaconda\Library\usr\bin;E:\Development\Anaconda\Library\bin;E:\Development\Anaconda\Scripts;C:\Users\Edward\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_131\bin;C:\Program Files\Java\jdk1.8.0_131;C:\Users\Edward\AppData\Local\GitHubDesktop\bin;E:\Development\cpp_libs\glew-2.1.0\bin;F:\Development\MinGW\bin;F:\Development\MinGW\msys\1.0\bin;F:\Development\Mingw64\mingw64\bin;C:\Program Files (x86)\Dr. Memory\bin\;F:\Development\Microsoft VS Code\bin;C:\Users\Edward\.dotnet\tools;C:\Users\Edward\AppData\Local\Microsoft\WindowsApps;C:\Users\Edward\.dotnet\tools
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+PkgDefApplicationConfigFile = C:\Users\Edward\AppData\Local\Microsoft\VisualStudio\16.0_2deadcb8\devenv.exe.config
+POWERSHELL_DISTRIBUTION_CHANNEL = MSI:Windows 10 Pro
+PROCESSOR_ARCHITECTURE = x86
+PROCESSOR_ARCHITEW6432 = AMD64
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD
+PROCESSOR_LEVEL = 23
+PROCESSOR_REVISION = 7100
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files (x86)
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+ServiceHubLogSessionKey = 77038E32
+SignInWithHomeTenantOnly = False
+SVN_EXPERIMENTAL_COMMANDS = shelf2
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\Edward\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\Edward\AppData\Local\Temp
+USERDOMAIN = WHITECUBE
+USERDOMAIN_ROAMINGPROFILE = WHITECUBE
+USERNAME = Edward
+USERPROFILE = C:\Users\Edward
+VISUALGDB_DIR = F:\Development\VisualGDB\
+VisualStudioDir = C:\Users\Edward\Documents\Visual Studio 2019
+VisualStudioEdition = Microsoft Visual Studio Community 2019
+VisualStudioVersion = 16.0
+VK_SDK_PATH = F:\Development\vulkan\1.2.141.2
+VS110COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\
+VS120COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\
+VS140COMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+VSAPPIDDIR = F:\Development\Visual Studio 2019\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSLS_SESSION_KEEPALIVE_INTERVAL = 0
+VSSKUEDITION = Community
+VULKAN_SDK = C:\Users\Edward/scoop/apps/vulkan/current/
+VULKAN_SDK_OLD = F:\Development\vulkan\1.2.141.2
+windir = C:\WINDOWS
+__COMPAT_LAYER = RunAsAdmin
+
+  Phase_2_Execution.c
+C:\Users\Edward\source\repos\TrialByFire\TrialByFire\Phase 2\Phase_2_Execution.c(102,30): warning C4142: 'float64': benign redefinition of type
+C:\Users\Edward\source\repos\TrialByFire\TrialByFire\FloatCompare.h(24): message : see declaration of 'float64'
+C:\Users\Edward\source\repos\TrialByFire\TrialByFire\Phase 2\Phase_2_Execution.c(253,19): warning C4244: 'function': conversion from 'uInt64' to 'DataSize', possible loss of data
+  TrialByFire.vcxproj -> C:\Users\Edward\source\repos\TrialByFire\Debug\TrialByFire.exe
+
+Project Performance Summary:
+      676 ms  C:\Users\Edward\source\repos\TrialByFire\TrialByFire\TrialByFire.vcxproj   1 calls
+                676 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  BuildCompile                               1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  MakeDirsForLink                            1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  RegisterOutput                             1 calls
+        0 ms  ComputeCLGeneratedLinkInputs               1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  ComputeLegacyManifestEmbedding             1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  MakeDirsForResourceCompile                 1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  MakeDirsForXdcMake                         1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  PostBuildEvent                             1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  CopyFilesToOutputDirectory                 1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  _GetCopyToOutputDirectoryItemsFromThisProject   1 calls
+        0 ms  _GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences   1 calls
+        0 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        0 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  ResolvedLinkLib                            1 calls
+        0 ms  MakeDirsForFxc                             1 calls
+        0 ms  BuiltProjectOutputGroup                    1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  _PopulateCommonStateForGetCopyToOutputDirectoryItems   1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  Build                                      1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  _PrepareForBuild                           1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        0 ms  _CheckWindowsSDKInstalled                  1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  MakeDirsForCl                              1 calls
+        0 ms  WarnCompileDuplicatedFilename              1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  DoLinkOutputFilesMatch                     1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  CopyFileToFolders                          1 calls
+        0 ms  ComputeCLOutputs                           1 calls
+        0 ms  CustomBuild                                1 calls
+        0 ms  SetTelemetryEnvironmentVariables           1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        1 ms  _SelectedFiles                             1 calls
+        1 ms  _PrepareForReferenceResolution             1 calls
+        1 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+        1 ms  ResolveProjectReferences                   1 calls
+        1 ms  FindReferenceAssembliesForReferences       1 calls
+        1 ms  ComputeLinkSwitches                        1 calls
+        1 ms  AssignTargetPaths                          1 calls
+        1 ms  FixupCLCompileOptions                      1 calls
+        1 ms  GetReferenceAssemblyPaths                  1 calls
+        1 ms  ContentFilesProjectOutputGroup             1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  GetCopyToOutputDirectoryItems              1 calls
+        1 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        1 ms  FinalizeBuildStatus                        1 calls
+        2 ms  InitializeBuildStatus                      1 calls
+        2 ms  SatelliteDllsProjectOutputGroup            1 calls
+        2 ms  _CleanGetCurrentAndPriorFileWrites         1 calls
+        2 ms  PrepareForBuild                            1 calls
+        3 ms  IncrementalClean                           1 calls
+        5 ms  CreateRecipeFile                           1 calls
+      253 ms  Link                                       1 calls
+      391 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  Message                                    3 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  MSBuild                                    1 calls
+        0 ms  MakeDir                                   10 calls
+        0 ms  AssignCulture                              1 calls
+        0 ms  RemoveDuplicates                           2 calls
+        0 ms  CheckVCToolsetVersion                      1 calls
+        0 ms  WriteLinesToFile                           1 calls
+        0 ms  SetEnv                                     8 calls
+        0 ms  GetOutOfDateItems                          3 calls
+        1 ms  AssignTargetPath                           7 calls
+        1 ms  CallTarget                                 2 calls
+        1 ms  FindUnderPath                              5 calls
+        1 ms  Delete                                     2 calls
+        1 ms  ConvertToAbsolutePath                      1 calls
+        1 ms  Touch                                      2 calls
+        1 ms  CreateItem                                 2 calls
+        2 ms  ReadLinesFromFile                          2 calls
+        5 ms  GenerateDesktopDeployRecipe                1 calls
+      253 ms  Link                                       1 calls
+      391 ms  CL                                         1 calls

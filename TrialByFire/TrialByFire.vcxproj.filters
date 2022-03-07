@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Engine\CString.c" />
+    <ClCompile Include="Engine\Cycler.c" />
+    <ClCompile Include="Engine\Execution.c" />
+    <ClCompile Include="Engine\FloatCompare.c" />
+    <ClCompile Include="Engine\Input.c" />
+    <ClCompile Include="Engine\Memory.c" />
+    <ClCompile Include="Engine\Renderer.c" />
+    <ClCompile Include="Engine\State.c" />
+    <ClCompile Include="Engine\Timing.c" />
+    <ClCompile Include="Engine\Windows_Platform.c" />
+    <ClCompile Include="Engine\State_Intro.c" />
+    <ClCompile Include="Game\Game_EntryState.c" />
+    <ClCompile Include="Game\Game_LevelState.c" />
+    <ClCompile Include="Game\Game_Util.c" />
+    <ClCompile Include="Game\Game_LevelState_Ingame.c" />
+    <ClCompile Include="Game\Game_LevelState_Paused.c" />
+    <ClCompile Include="Game\Game_UI.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\C_STL.h" />
+    <ClInclude Include="Engine\CString.h" />
+    <ClInclude Include="Engine\Cycler.h" />
+    <ClInclude Include="Engine\Execution.h" />
+    <ClInclude Include="Engine\FloatCompare.h" />
+    <ClInclude Include="Engine\Input.h" />
+    <ClInclude Include="Engine\LAL.h" />
+    <ClInclude Include="Engine\Memory.h" />
+    <ClInclude Include="Engine\OSPlatform.h" />
+    <ClInclude Include="Engine\Renderer.h" />
+    <ClInclude Include="Engine\State.h" />
+    <ClInclude Include="Engine\Timing.h" />
+    <ClInclude Include="Engine\Windows_Platform.h" />
+    <ClInclude Include="Engine\State_Intro.h" />
+    <ClInclude Include="Engine\Engine.h" />
+    <ClInclude Include="Game\Game_EntryState.h" />
+    <ClInclude Include="Game\Game_LevelState.h" />
+    <ClInclude Include="Game\Game_Util.h" />
+    <ClInclude Include="Game\Game_LevelState_Ingame.h" />
+    <ClInclude Include="Game\Game_LevelState_Paused.h" />
+    <ClInclude Include="Game\Game_UI.h" />
+  </ItemGroup>
+</Project>

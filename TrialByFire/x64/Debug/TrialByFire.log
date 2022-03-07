@@ -1,0 +1,10 @@
+﻿  Game_LevelState_Paused.c
+E:\TBF\TrialByFire\TrialByFire\Engine\LAL.h(32,1): warning C4010: single-line comment contains line-continuation character
+E:\TBF\TrialByFire\TrialByFire\Game\Game_LevelState_Paused.c(51,50): warning C4133: 'function': incompatible types - from 'UI_ButtonObject *' to 'UI_TextObject *'
+E:\TBF\TrialByFire\TrialByFire\Game\Game_LevelState_Paused.c(53,54): warning C4133: 'function': incompatible types - from 'UI_ButtonObject *' to 'UI_TextObject *'
+E:\TBF\TrialByFire\TrialByFire\Game\Game_LevelState_Paused.c(76,50): warning C4133: 'function': incompatible types - from 'UI_ButtonObject *' to 'UI_TextObject *'
+E:\TBF\TrialByFire\TrialByFire\Game\Game_LevelState_Paused.c(78,54): warning C4133: 'function': incompatible types - from 'UI_ButtonObject *' to 'UI_TextObject *'
+E:\TBF\TrialByFire\TrialByFire\Game\Game_LevelState_Paused.c(126,59): warning C4133: 'function': incompatible types - from 'UI_ButtonObject *' to 'UI_TextObject *'
+E:\TBF\TrialByFire\TrialByFire\Game\Game_LevelState_Paused.c(132,51): warning C4133: 'function': incompatible types - from 'UI_ButtonObject *' to 'UI_TextObject *'
+E:\TBF\TrialByFire\TrialByFire\Game\Game_LevelState_Paused.c(159,47): warning C4133: 'function': incompatible types - from 'UI_ButtonObject *' to 'UI_TextObject *'
+  TrialByFire.vcxproj -> E:\TBF\TrialByFire\x64\Debug\TrialByFire.exe

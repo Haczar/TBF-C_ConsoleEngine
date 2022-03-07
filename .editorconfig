@@ -1,9 +1,0 @@
-root = true
-
-[*.h]
-indent_style = tab
-indent_size = 4
-
-[*.c]
-indent_style = tab
-indent_size = 4
